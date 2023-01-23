@@ -1,8 +1,17 @@
 @import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=EB+Garamond&display=swap');
+
 .ff-poppins{
     font-family: 'Poppins', sans-serif;
+}
+.ff-garamond{
+    font-family: 'EB Garamond', serif;
 }
 .btn-custom{
     background-color: #B68C5A !important;
     color: white !important;
+}
+.banner{
+    background-image: url(./images/banner.png);
+    height: 550px;
 }
