@@ -19,3 +19,11 @@
     background: rgb(193,193,193);
     background: linear-gradient(180deg, rgba(193,193,193,1) 0%, rgba(255,255,255,1) 100%);
 }
+.same{
+    max-height: 500px;
+}
+@media (max-width: 576px) {
+    .same{
+        min-height: 800px;
+    }
+}
