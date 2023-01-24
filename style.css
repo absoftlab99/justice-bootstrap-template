@@ -30,3 +30,6 @@
 .bg-faq{
     background-color: #F3F3F3 !important;
 }
+.list{
+    list-style: none;
+}
